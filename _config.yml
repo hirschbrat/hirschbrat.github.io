@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: roastedelectrons.com
 description: Smart Home&Energy
+repository: github.com/hirschbrat
+author:
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  github          : hirschbrat
+  youtube         : roastedelectrons
